@@ -34,8 +34,3 @@ O sistema implementa um serviço de mensageria assíncrona com os seguintes tóp
 - `report.generated`: Relatório gerado com sucesso
 - `notification`: Notificações gerais
 
-Os eventos são processados em background thread e logados automaticamente.
-
-## Uso
-
-A documentação da API está disponível em `/docs`
